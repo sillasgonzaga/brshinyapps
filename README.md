@@ -1,5 +1,5 @@
 # brshinyapps
-Gallery of Shiny Apps developed by brazilian developers
+Gallery of Shiny Apps developed by brazilian R users
 
 # To contribute
 Please open an issue at this repo to ask for a link to a shiny app to be included. Please use this format replacing the data inside the braces:
