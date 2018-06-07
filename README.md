@@ -20,6 +20,7 @@ nova_submissao <- function(app_name, screenshot, app_url){
     html
   ))
 }
+
 # Example:
 nova_submissao("meu_app",
                "https://i.imgur.com/MP2nQEJ.jpg?1",
@@ -33,3 +34,18 @@ nova_submissao("meu_app",
 
 ### Pesquisas Eleitorais 2018
 [<img src="https://i.imgur.com/44G4e5x.jpg?1" width="480" height="300">](http://pesqele.conre3.org.br/app/)
+
+### Aplicação de Análise de Redes Sociais - GIARS
+[<img src="https://i.imgur.com/MP2nQEJ.jpg?1" width="480" height="300">](https://giars.shinyapps.io/shiny-redes/)
+
+### Enem e Censo das Escolas de Santa Catarina
+[<img src="https://i.imgur.com/Gu4YxnM.jpg?1" width="480" height="300">](https://silvio.shinyapps.io/ENEMSC/)
+
+### Carômetro
+[<img src="https://i.imgur.com/SRSueP3.jpg?1" width="480" height="300">](https://flaviobarros.shinyapps.io/carometro/)
+
+### Word Cloud
+[<img src="https://i.imgur.com/YOWXARs.jpg?1" width="480" height="300">](https://gomesfellipe.shinyapps.io/appwordcloud/)
+
+### appPCAkmeans
+[<img src="https://i.imgur.com/XuKuIV8.jpg?1" width="480" height="300">](https://gomesfellipe.shinyapps.io/apppcakmeans/)
