@@ -1,12 +1,29 @@
 # brshinyapps
-Gallery of Shiny Apps developed by brazilian R users
+Gallery of Shiny Apps developed by brazilian R users.
 
 # To contribute
-Please open an issue at this repo to ask for a link to a shiny app to be included. Please use this format replacing the data inside the braces:
+You are encouraged to submit your apps to be shown here. Please open an issue to ask for your shiny app to be included in this README. When writing your issue, please provide urls for both a screenshot of the app and for the app itself. To be even more helpful, paste the output of the function below:
 
 ``` r
-### `App name`
-[<img src="{Url to screenshot}" width="480" height="300">]({Url to Shiny app})
+nova_submissao <- function(app_name, screenshot, app_url){
+  
+  html <- sprintf(
+    '[<img src="%s" width="480" height="300">](%s)',
+    screenshot, app_url
+    )
+  
+  header <- sprintf("### %s", app_name)
+  
+  cat(paste0(
+    header,
+    "\n",
+    html
+  ))
+}
+# Example:
+nova_submissao("meu_app",
+               "https://i.imgur.com/MP2nQEJ.jpg?1",
+               "https://giars.shinyapps.io/shiny-redes/")
 ```
 
 # Gallery
