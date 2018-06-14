@@ -3,16 +3,16 @@
 # brshinyapps
 
 (Texto disponível em Português e Inglês)  
-(Portuguese and English versions available)
+*(Portuguese and English versions available)*
 
 Galeria de apps Shiny desenvolvidos por usuários brasileiros de R.
 
-Gallery of Shiny apps developed by brazilian R users.
+*Gallery of Shiny apps developed by brazilian R users.*
 
 # Para contribuir | To contribute
 Você está mais que incentivado para submeter seus apps para aparecer aqui. Por favor crie uma issue para que seu Shiny app seja incluído aqui. Ao criar sua issue, por favor forneça links para um print da tela do app e para o próprio app. Para ajudar ainda mais, use a função abaixo e cole na issue seu output:
 
-You are encouraged to submit your apps to be shown here. Please open an issue to ask for your shiny app to be included in this README. When writing your issue, please provide urls for both a screenshot of the app and for the app itself. To be even more helpful, paste the output of the function below:
+*You are encouraged to submit your apps to be shown here. Please open an issue to ask for your shiny app to be included in this README. When writing your issue, please provide urls for both a screenshot of the app and for the app itself. To be even more helpful, paste the output of the function below:*
 
 ``` r
 nova_submissao <- function(app_name, screenshot, app_url){
