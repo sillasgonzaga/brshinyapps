@@ -37,7 +37,7 @@ nova_submissao("meu_app",
                "https://giars.shinyapps.io/shiny-redes/")
 ```
 
-# Gallery
+# Galeria | Gallery
 
 ### Olx Map Search
 [<img src="https://i.imgur.com/tSzAmiJ.jpg?1" width="480" height="300">](https://sillasgonzaga.shinyapps.io/olxshiny2/)
