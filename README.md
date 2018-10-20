@@ -59,3 +59,6 @@ nova_submissao("meu_app",
 
 ### appPCAkmeans
 [<img src="https://i.imgur.com/XuKuIV8.jpg?1" width="480" height="300">](https://gomesfellipe.shinyapps.io/apppcakmeans/)
+
+### Calculadora de Distribuições de Probabilidade
+[<img src="https://i.imgur.com/gYsubFZ.png" width="480" height="300">](http://shiny.leg.ufpr.br/hektor/calc_dist/)
